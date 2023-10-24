@@ -1,3 +1,6 @@
+AUTHOR: Aniel Flores-Lopez
+EMAIL: aflores9@uoregon.edu
+
 # UOCIS322 - Project 3 #
 
 You'll learn about JQuery and asynchronous requests in this project.
