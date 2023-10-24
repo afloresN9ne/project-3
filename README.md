@@ -1,4 +1,4 @@
-AUTHOR: Aniel Flores-Lopez
+AUTHOR: Aniel Angel Flores-Lopez
 EMAIL: aflores9@uoregon.edu
 
 # UOCIS322 - Project 3 #
