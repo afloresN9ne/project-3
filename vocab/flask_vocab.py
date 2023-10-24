@@ -107,7 +107,7 @@ def check():
         # Cool, they found a new word
         matches.append(text)
         flask.session["matches"] = matches
-        rslt = {"output": "found a word",
+        rslt = {"output": "",
                 "length":len(matches) >= flask.session["target_count"],
                 "found":matches}
                 

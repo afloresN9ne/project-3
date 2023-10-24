@@ -128,7 +128,7 @@
                $.getJSON( "/_check", { text: txt },
                           function(data) {
                             $("#results").html(data.result.output);
-			    if((data.result.output) == "found a word" ){
+			    if((data.result.output) == "" ){
 			    	$("#match").html(data.result.found + "" );
 				$("#attempt").val("")
 			    }		
